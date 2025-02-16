@@ -51,11 +51,13 @@ cd Dental_Medical_ImagesDenoising
 
 Results
    The model produces the following outputs:
-
    Denoised Dental X-rays: Each input image is processed and saved in the output directory.
 
-Contact
+
+
+## Contact
   For questions or feedback
 
 Ayobami Opefeyijimi
 Email: ayobamiwealth@gmail.com
+
