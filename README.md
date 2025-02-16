@@ -7,7 +7,6 @@ This repository contains a PyTorch implementation of a **Denoising Autoencoder (
 - [Dataset](#dataset)
 - [Methodology](#methodology)
 - [Dependencies](#dependencies)
-- [Usage](#usage)
 - [Results](#results)
 - [Contact](#contact)
 
@@ -52,6 +51,9 @@ cd Dental_Medical_ImagesDenoising
 Results
    The model produces the following outputs:
    Denoised Dental X-rays: Each input image is processed and saved in the output directory.
+
+
+
 
 
 
