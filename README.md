@@ -49,13 +49,13 @@ git clone https:https://github.com/AyobamiMichael/Dental_Medical_ImagesDenoising
 cd Dental_Medical_ImagesDenoising
 
 
-### Results
-**The model produces the following outputs:
+Results
+   The model produces the following outputs:
 
-**Denoised Dental X-rays: Each input image is processed and saved in the output directory.
+   Denoised Dental X-rays: Each input image is processed and saved in the output directory.
 
-### Contact
-*For questions or feedback
+Contact
+  For questions or feedback
 
 Ayobami Opefeyijimi
 Email: ayobamiwealth@gmail.com
